@@ -4,6 +4,7 @@ This is a minimalistic iconpack i black and white style. It was made by hand in 
 
 ---
 
+> [!NOTE]
 > I created this icon pack myself. I had no intention of stealing anything from anyone or claiming anyone else's work as my own. Any similarities to other works are purely coincidental.
 
 ---
